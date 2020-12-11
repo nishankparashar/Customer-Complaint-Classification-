@@ -29,6 +29,7 @@ Alert through Mail:
 5. Terminate the connection
 
 <h3><b>Output: </b></h3>
+
 ![](1.png)
 
 <h3><b>Dataset Used: https://www.kaggle.com/anujms/car-damage-detection</b></h3>
